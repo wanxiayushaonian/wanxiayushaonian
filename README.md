@@ -199,7 +199,7 @@ AI Agents ────────────────┬─ LLM Tool Callin
 
 <div align="center">
 
-![Email](https://img.shields.io/badge/Email-3380683697@qq.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)
+![Email](https://img.shields.io/badge/Email-ljb3380683697@163.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-wanxiayushaonian-181717?style=for-the-badge&logo=github&logoColor=white)
 
 <br/>
