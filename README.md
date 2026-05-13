@@ -10,10 +10,9 @@
 <br/>
 
 <!-- Badges -->
-<a href="https://github.com/wanxiayushaonian">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=wanxiayushaonian&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=wanxiayushaonian&layout=compact&theme=tokyonight&hide_border=true" />
-</a>
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=wanxiayushaonian&show_icons=true&theme=tokyonight&hide_border=true)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=wanxiayushaonian&layout=compact&theme=tokyonight&hide_border=true)
 
 </div>
 
